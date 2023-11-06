@@ -77,7 +77,49 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+Placement Data:
+
+![image](https://github.com/YogiReddy117/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/123739437/26afa571-4852-4b97-9b71-c31b4e341fe5)
+
+Salary Data:
+
+![image](https://github.com/YogiReddy117/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/123739437/aeb57499-f9b7-4359-9a17-3d4e1b30f447)
+
+Checking the null() function:
+
+![image](https://github.com/YogiReddy117/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/123739437/3e3b092a-ac1e-4f76-bc69-127b4a7912ed)
+
+Data Duplicate:
+
+![image](https://github.com/YogiReddy117/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/123739437/7923aa6a-8152-436e-84b8-d30b43a5885e)
+
+Print Data:
+
+![image](https://github.com/YogiReddy117/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/123739437/e802586e-ba7b-43e1-97a3-1e45d902792f)
+
+Data-Status:
+
+![image](https://github.com/YogiReddy117/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/123739437/3cd4767a-f4d5-4074-b529-0140ec107473)
+
+Y_prediction array:
+
+![image](https://github.com/YogiReddy117/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/123739437/ec198641-df94-4156-b9b1-ebbe993cb880)
+
+Accuracy value:
+
+![image](https://github.com/YogiReddy117/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/123739437/71ab14ca-fc99-496b-8ec0-d4b45f7f89f3)
+
+Confusion array:
+
+![image](https://github.com/YogiReddy117/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/123739437/5c7fb12b-1d98-48cd-8891-5f46d539d85a)
+
+Classification Report:
+
+![image](https://github.com/YogiReddy117/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/123739437/a81463b3-fcd1-4b40-8a49-00baa7098835)
+
+Prediction of LR:
+
+![image](https://github.com/YogiReddy117/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/123739437/42b3e3f2-42e4-4eca-98ea-089bd2bba0ca)
 
 
 ## Result:
